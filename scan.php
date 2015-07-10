@@ -1,7 +1,7 @@
 <?php
 // EVALBASE64DECODE Scanner V1.0
 // Developed by Matt Gross (http://mattgross.net/)
-// http://github.com/MattGross/
+// http://github.com/MatthewGross/
 // All rights reserved.
 
 	$config = array(    'dir' => $_SERVER['DOCUMENT_ROOT'],);
