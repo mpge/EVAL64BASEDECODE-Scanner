@@ -44,7 +44,7 @@
 				foreach($contents_list as $content) {
 					
 					if(strpos($line, $content) !== false) {
-						echo '<p>Possible Infection Found:&nbsp;'.$line.' at '.$path.'/'.$filename.'</p>';
+						echo '<p>Possible Infection Found:&nbsp; '.$filename.'</p>';
 						output();
 					}
 
