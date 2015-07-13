@@ -15,7 +15,7 @@
 
 	echo '<h1>EVALBASE64DECODE Malware Detector</h1><p>Please wait, we are currently searching for possible infected files...</p><br /><hr /><br />';
 	output();
-	$contents_list = array("eval(base64_decode(");
+	$contents_list = array("base64_decode", "eval"); // removing eval, just incase hacker decides to use spaces in syntax
 	$directory = $config['dir'];
 	function getDirContents($dir, &$results = array()){
 		$files = scandir($dir);
