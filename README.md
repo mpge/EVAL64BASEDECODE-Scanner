@@ -5,3 +5,7 @@ To install, simply download scan.php into your home directory and browse to it.
 It will list all possible infected files but WILL NOT delete, fix or modify them in any way!
 
 <a href="https://raw.githubusercontent.com/MatthewGross/EVAL64BASEDECODE-Scanner/master/scan.php">Quick Download Link...</a>
+
+## Support
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=000)](https://buymeacoffee.com/mpge)
